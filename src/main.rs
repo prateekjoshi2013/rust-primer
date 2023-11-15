@@ -38,6 +38,7 @@ use tutorial::part_35_raw_strings;
 use tutorial::part_36_todo_macros;
 use tutorial::part_37_builder_pattern;
 use tutorial::part_38_concurrency;
+use tutorial::part_39_file_handling;
 use tutorial::part_3_shadowing_contants;
 use tutorial::part_4_compound_data_types::{part_1_strings, part_2_tuples_arrays, part_3_vectors};
 use tutorial::part_5_functions_code_blocks_user_inputs;
@@ -101,5 +102,6 @@ fn main() {
     // part_34_disabling_mutability_for_finalized_obj::main();
     // part_35_raw_strings::main();
     // part_36_todo_macros::main();
-    part_38_concurrency::main();
+    // part_38_concurrency::main();
+    part_39_file_handling::main();
 }
