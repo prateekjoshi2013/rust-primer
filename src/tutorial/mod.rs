@@ -37,6 +37,8 @@ pub mod part_37_builder_pattern;
 pub mod part_38_concurrency;
 pub mod part_39_file_handling;
 pub mod part_3_shadowing_contants;
+pub mod part_40_regex;
+pub mod part_41_web_server;
 pub mod part_4_compound_data_types;
 pub mod part_5_functions_code_blocks_user_inputs;
 pub mod part_6_ownership;

@@ -40,6 +40,8 @@ use tutorial::part_37_builder_pattern;
 use tutorial::part_38_concurrency;
 use tutorial::part_39_file_handling;
 use tutorial::part_3_shadowing_contants;
+use tutorial::part_40_regex;
+use tutorial::part_41_web_server;
 use tutorial::part_4_compound_data_types::{part_1_strings, part_2_tuples_arrays, part_3_vectors};
 use tutorial::part_5_functions_code_blocks_user_inputs;
 use tutorial::part_6_ownership;
@@ -103,5 +105,7 @@ fn main() {
     // part_35_raw_strings::main();
     // part_36_todo_macros::main();
     // part_38_concurrency::main();
-    part_39_file_handling::main();
+    // part_39_file_handling::main();
+    // part_40_regex::main();
+    part_41_web_server::main();
 }

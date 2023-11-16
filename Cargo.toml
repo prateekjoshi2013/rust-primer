@@ -7,6 +7,6 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1.17", features = ["full"] } # async runtime
-
+regex = "1.7.0"
 [part_31_tests]
-doctest = false                                 # to ignore doctest
+doctest = false # to ignore doctest
